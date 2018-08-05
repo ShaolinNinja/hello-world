@@ -1,2 +1,2 @@
 # hello-world
-Just a repository to learn how to create a github repository
+Hi, I am Kamal Kumar Tudu. I am an EEE student of Birla Institute of Technology, Mesra, Off-Campus- Deoghar.
